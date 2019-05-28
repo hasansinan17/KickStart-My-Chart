@@ -1,3 +1,1 @@
-"# hw1-excel" 
-"# hw1-excel" 
-"# hw1-excel" 
+it is an excel trainning.
